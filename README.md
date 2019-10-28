@@ -10,8 +10,8 @@ LatoRed 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://latored.top/my-github-repos)
-* [世界，你好！](http://latored.top/hello-solo)
+* [我在 GitHub 上的开源项目](http://www.latored.top/my-github-repos)
+* [世界，你好！](http://www.latored.top/hello-solo)
 
 
 
